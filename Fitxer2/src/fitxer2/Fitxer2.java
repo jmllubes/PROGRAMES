@@ -18,7 +18,7 @@ public class Fitxer2 {
 
         try {
             String line = bf.readLine();
-
+ //bucle per recorrer un fitxer
             while (line != null) {
 
                 String[] parts = line.split(" ");
